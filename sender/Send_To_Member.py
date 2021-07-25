@@ -10,8 +10,8 @@ payam = Chat()
 members = []
 
 api_id = 3600066
-api_hash = '5e7f9****1251'
-phone = '+98905***29'
+api_hash = '5e7f9*****1251'
+phone = '+98905******29'
 
 
 proxy = 'gamsteel.ir.modirafzar.ir.iranspider.com.monitorict.org.amitistour.net.ebrahimsoltani.ir.joveyn.ir.pichab.ir.meiranian.ir.sotsotak.com.barekatstore.com.honarfa.ir.dibikala.com.rahearman.ir.azaliagroup.ir.sobhekavir.com.nejatrayaneh.ir.times-strait.co.in.'
